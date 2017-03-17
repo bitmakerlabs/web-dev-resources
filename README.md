@@ -149,8 +149,6 @@ TODO: Not sure if this Rails Pub Nite is still happening. Commenting out for now
     A casual social mixer for people interested in Ruby on Rails, and those who love them. 7pm on third Monday of every month (except December).  Happens at The Rhino (1249 Queen St. West).
 -->
 
-<!-- - [Meetup.com](meetup.com) has dozens of meetups on various topics. -->
-
 - Gamma Space (formerly Bento Miso) [hosts tech-themed events](https://bentomiso.com/events).
 
 Want more tech meetups? Check out [Meetup.com](http://meetup.com)
@@ -208,6 +206,6 @@ Want more tech meetups? Check out [Meetup.com](http://meetup.com)
 - Never stop learning and creating. See previous sections for our suggestions!
 
 
---
+---
 
 *See any corrections or have any suggestions to improve this document? [Let us know!](mailto:contact@bitmaker.co)*
