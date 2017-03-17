@@ -31,123 +31,88 @@ You can choose from a range of online courses, e-books, tutorials and more that 
 
 ### HTML & CSS
 
-[HTML and CSS](https://www.lynda.com/HTML-tutorials/HTML-CSS/170427/196178-4.html)
-Lynda.com online course / beginner level
+[HTML and CSS](https://www.lynda.com/HTML-tutorials/HTML-CSS/170427/196178-4.html)<br>Lynda.com online course / beginner level
 
-[CSS-Tricks](https://css-tricks.com/)
-Blog / beginner level
+[CSS-Tricks](https://css-tricks.com/)<br>Blog / beginner level
 
 ### Ruby
 
 [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)<br>Online e-book / beginner level
 
-[Ruby Essential Training](https://www.lynda.com/Ruby-tutorials/essential-training/47905-2.html)
-Lynda.com online course / beginner level
+[Ruby Essential Training](https://www.lynda.com/Ruby-tutorials/essential-training/47905-2.html)<br>Lynda.com online course / beginner level
 
-[Ruby on Rails Tutorial](https://www.railstutorial.org/)
-Online e-book / beginner level
+[Ruby on Rails Tutorial](https://www.railstutorial.org/)<br>Online e-book / beginner level
 
-[How to Read Ruby documentation](http://www.rubyletter.com/blog/2017/02/15/how-to-read-ruby-documentation.html)
-Blog post / beginner level
+[How to Read Ruby documentation](http://www.rubyletter.com/blog/2017/02/15/how-to-read-ruby-documentation.html)<br>Blog post / beginner level
 
-[RailsCasts](http://railscasts.com/)
-Screencasts / beginner level
+[RailsCasts](http://railscasts.com/)<br>Screencasts / beginner level
 *(These screencasts are a little dated, but may still be a good resource when you want to accomplish something specific with Ruby on Rails.)*
 
-[Sitepoint](https://www.sitepoint.com/ruby/)
-Blog with tutorials / intermediate level
+[Sitepoint](https://www.sitepoint.com/ruby/)<br>Blog with tutorials / intermediate level
 
-[Eloquent Ruby](https://www.safaribooksonline.com/library/view/eloquent-ruby/9780321700308/)
-Safari online e-book / intermediate level
+[Eloquent Ruby](https://www.safaribooksonline.com/library/view/eloquent-ruby/9780321700308/)<br>Safari online e-book / intermediate level
 
-[Ruby Tapas](https://www.rubytapas.com/category/freebies/)
-Short videos / intermediate level
+[Ruby Tapas](https://www.rubytapas.com/category/freebies/)<br>Short videos / intermediate level
 
-[RubyFu](https://rubyfu.net/content/en/)
-Online e-book / intermediate level
+[RubyFu](https://rubyfu.net/content/en/)<br>Online e-book / intermediate level
 
-[RubyFlow](http://www.rubyflow.com/)
-Linklog / intermediate level
+[RubyFlow](http://www.rubyflow.com/)<br>Linklog / intermediate level
 
-[Riding Rails](http://weblog.rubyonrails.org/)
-Blog / intermediate level
+[Riding Rails](http://weblog.rubyonrails.org/)<br>Blog / intermediate level
 *(This is the official Ruby on Rails blog. Once you feel you have the a good grasp of Rails, it's good to stay up to date with the framework as it evolves.)*
 
-[Ruby Rogues](https://devchat.tv/ruby-rogues)
-Podcast / all levels
+[Ruby Rogues](https://devchat.tv/ruby-rogues)<br>Podcast / all levels
 
 ### JavaScript
 
-[Eloquent JavaScript](http://eloquentjavascript.net/)
-Online e-book / intermediate level
+[Eloquent JavaScript](http://eloquentjavascript.net/)<br>Online e-book / intermediate level
 
-[JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html)
-Lynda.com online course / beginner level
+[JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html)<br>Lynda.com online course / beginner level
 
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-Online e-books series / intermediate level
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)<br>Online e-books series / intermediate level
 
-[Sitepoint](https://www.sitepoint.com/javascript/)
-Blog with tutorials / intermediate level
+[Sitepoint](https://www.sitepoint.com/javascript/)<br>Blog with tutorials / intermediate level
 
-[funfunfunction YouTube Channel](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-Short videos / intermediate level
+[funfunfunction YouTube Channel](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)<br>Short videos / intermediate level
 
-[David Walsh Blog](https://davidwalsh.name/)
-Blog / intermediate level
+[David Walsh Blog](https://davidwalsh.name/)<br>Blog / intermediate level
 
-[JavaScript Jabber](https://devchat.tv/js-jabber)
-Podcast / all levels
+[JavaScript Jabber](https://devchat.tv/js-jabber)<br>Podcast / all levels
 
 ### Command Line & Git
 
-[Unix for Mac OS X Users](https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html)
-Lynda.com online course / beginner level
+[Unix for Mac OS X Users](https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html)<br>Lynda.com online course / beginner level
 
-[Learn the Linux Command Line: The Basics](https://www.lynda.com/Linux-tutorials/Learn-Linux-Command-Line-Basics/435539-2.html)
-Lynda.com online course / beginner level
+[Learn the Linux Command Line: The Basics](https://www.lynda.com/Linux-tutorials/Learn-Linux-Command-Line-Basics/435539-2.html)<br>Lynda.com online course / beginner level
 
-[Think Like (a) Git](http://think-like-a-git.net/)
-Online e-book / beginner level
+[Think Like (a) Git](http://think-like-a-git.net/)<br>Online e-book / beginner level
 
-[Git for everyone](https://anotheruiguy.gitbooks.io/gitforeveryone/content/)
-Online e-book / beginner level
+[Git for everyone](https://anotheruiguy.gitbooks.io/gitforeveryone/content/)<br>Online e-book / beginner level
 
-[Julie Evans](http://jvns.ca/)
-Blog / intermediate level
+[Julie Evans](http://jvns.ca/)<br>Blog / intermediate level
 
 ### Multidisciplinary resources
 Each of these links address multiple topics.
 
-[Learn web development from the Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn)
-Online course / beginner level
+[Learn web development from the Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn)<br>Online course / beginner level
 
-[Front-End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
-Online e-book / beginner level
+[Front-End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)<br>Online e-book / beginner level
 
-[HTML Dog](http://htmldog.com/)
-Tutorials and reference / all levels
+[HTML Dog](http://htmldog.com/)<br>Tutorials and reference / all levels
 
-[Techsith YouTube Channel](https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg)
-Short videos / beginner level
+[Techsith YouTube Channel](https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg)<br>Short videos / beginner level
 
-[Craft Academy Bootcamp](https://course.books.craftacademy.se/)
-Online course / beginner level
+[Craft Academy Bootcamp](https://course.books.craftacademy.se/)<br>Online course / beginner level
 
-[The Changelog](https://changelog.com/podcast)
-Podcast / all levels
+[The Changelog](https://changelog.com/podcast)<br>Podcast / all levels
 
-[Software Engineering Radio](http://www.se-radio.net/)
-Podcast / all levels
+[Software Engineering Radio](http://www.se-radio.net/)<br>Podcast / all levels
 
-[Software Engineering Daily](https://softwareengineeringdaily.com/)
-Podcast / all levels
+[Software Engineering Daily](https://softwareengineeringdaily.com/)<br>Podcast / all levels
 
-[Mozilla Hacks](https://hacks.mozilla.org/)
-Blog / intermediate level
+[Mozilla Hacks](https://hacks.mozilla.org/)<br>Blog / intermediate level
 
-[Hacker News](https://news.ycombinator.com/)
-Linklog / all levels
+[Hacker News](https://news.ycombinator.com/)<br>Linklog / all levels
 
 
 ### Algorithm Challenge Sites
