@@ -6,10 +6,10 @@ If you'd like to take your studies further, or you're ready to start looking for
 
 ### Where Are You At?
 
-- [You haven't started the course](#if-you-haven-t-started-the-course-)
-- [The course has begun](#if-the-course-has-begun-or-you-just-want-more-)
-- [Your course has finished you're not feeling job ready](#if-the-course-is-over-but-you-re-not-feeling-job-ready-)
-- [You're looking for a job](#if-you-re-looking-for-a-job-)
+- [You haven't started the course](#if-you-havent-started-the-course)
+- [The course has begun](#if-the-course-has-begun-or-you-just-want-more)
+- [Your course has finished you're not feeling job ready](#if-the-course-is-over-but-youre-not-feeling-job-ready)
+- [You're looking for a job](#if-youre-looking-for-a-job)
 
 ## If you haven't started the course...
 
@@ -199,7 +199,7 @@ Want more tech meetups? Check out [Meetup.com](http://meetup.com)
 
 - Along with searching for jobs in Toronto, look for remote opportunities. For example, [remote | OK](https://remoteok.io/) has many remote opportunities.
 
-- Attend meetups. Often employers go to meetups to find new candidates. See our Meetups & Events section for a list of gatherings.
+- Attend meetups. Often employers go to meetups to find new candidates. See our [Meetups & Events section](#meetups--events) for a list of gatherings.
 
 - Check out [Medium's Grading Rubric](https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f#.10vll2y87). You can get a detailed look at a tech company's hiring process and find out what companies might be looking for.
 
