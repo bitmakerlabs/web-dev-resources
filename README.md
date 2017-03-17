@@ -45,8 +45,7 @@ You can choose from a range of online courses, e-books, tutorials and more that 
 
 [How to Read Ruby documentation](http://www.rubyletter.com/blog/2017/02/15/how-to-read-ruby-documentation.html)<br>Blog post / beginner level
 
-[RailsCasts](http://railscasts.com/)<br>Screencasts / beginner level
-*(These screencasts are a little dated, but may still be a good resource when you want to accomplish something specific with Ruby on Rails.)*
+[RailsCasts](http://railscasts.com/)<br>Screencasts / beginner level<br>*(These screencasts are a little dated, but may still be a good resource when you want to accomplish something specific with Ruby on Rails.)*
 
 [Sitepoint](https://www.sitepoint.com/ruby/)<br>Blog with tutorials / intermediate level
 
@@ -58,8 +57,7 @@ You can choose from a range of online courses, e-books, tutorials and more that 
 
 [RubyFlow](http://www.rubyflow.com/)<br>Linklog / intermediate level
 
-[Riding Rails](http://weblog.rubyonrails.org/)<br>Blog / intermediate level
-*(This is the official Ruby on Rails blog. Once you feel you have the a good grasp of Rails, it's good to stay up to date with the framework as it evolves.)*
+[Riding Rails](http://weblog.rubyonrails.org/)<br>Blog / intermediate level<br>*(This is the official Ruby on Rails blog. Once you feel you have the a good grasp of Rails, it's good to stay up to date with the framework as it evolves.)*
 
 [Ruby Rogues](https://devchat.tv/ruby-rogues)<br>Podcast / all levels
 
@@ -159,7 +157,8 @@ Want more tech meetups? Check out [Meetup.com](http://meetup.com)
 
 #### Slack Channels
 
-- [Bitmaker (Students)](https://bitmaker-students.slack.com): Ensure you click the *Channels* link to explore all the other channels available to you.
+- [Bitmaker (Students)](https://bitmaker-students.slack.com)
+  Ensure you click the *Channels* link to explore all the other channels available to you.
 
 - [TorontoRB](http://slack.rubytoronto.com/)
 
@@ -196,7 +195,7 @@ Want more tech meetups? Check out [Meetup.com](http://meetup.com)
 
 - Ensure your LinkedIn profile is up to date.
 
-- http://www.railstoronto.com/ has a good list of companies who use Ruby on Rails that you could approach.
+- [railstoronto.com](http://railstoronto.com/) has a good list of companies who use Ruby on Rails that you could approach.
 
 - Along with searching for jobs in Toronto, look for remote opportunities. For example, [remote | OK](https://remoteok.io/) has many remote opportunities.
 
