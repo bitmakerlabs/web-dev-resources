@@ -39,7 +39,7 @@ Blog / beginner level
 
 ### Ruby
 
-> [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+[Learn Ruby the Hard Way](https://learnrubythehardway.org/book/):
 Online e-book / beginner level
 
 [Ruby Essential Training](https://www.lynda.com/Ruby-tutorials/essential-training/47905-2.html)
