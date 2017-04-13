@@ -63,9 +63,11 @@ You can choose from a range of online courses, e-books, tutorials and more that 
 
 ### JavaScript
 
-[Eloquent JavaScript](http://eloquentjavascript.net/)<br>Online e-book / intermediate level
-
 [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html)<br>Lynda.com online course / beginner level
+
+[Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_)<br>Short videos / beginner level
+
+[Eloquent JavaScript](http://eloquentjavascript.net/)<br>Online e-book / intermediate level
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)<br>Online e-books series / intermediate level
 
