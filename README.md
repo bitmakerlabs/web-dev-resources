@@ -94,6 +94,8 @@ You can choose from a range of online courses, e-books, tutorials and more that 
 ### Multidisciplinary resources
 Each of these links address multiple topics.
 
+[Bitmaker Guide To Fixing Bugs](https://github.com/bitmakerlabs/debugging-guide/wiki/Bitmaker-Guide-To-Fixing-Bugs)<br>Online Guides / beginner level
+
 [Learn web development from the Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn)<br>Online course / beginner level
 
 [Front-End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)<br>Online e-book / beginner level
