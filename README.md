@@ -89,6 +89,10 @@ You can choose from a range of online courses, e-books, tutorials and more that 
 
 [Git for everyone](https://anotheruiguy.gitbooks.io/gitforeveryone/content/)<br>Online e-book / beginner level
 
+[Use Grep for Fast Search from the Command Line](https://egghead.io/courses/use-grep-for-fast-search-from-the-command-line)<br>Egghead online course (videos) / intermediate level
+
+[Wrangle your terminal with tmux](https://egghead.io/courses/wrangle-your-terminal-with-tmux)<br>Egghead online course (videos) / intermediate level
+
 [Julie Evans](http://jvns.ca/)<br>Blog / intermediate level
 
 ### Multidisciplinary resources
