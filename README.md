@@ -67,6 +67,12 @@ You can choose from a range of online courses, e-books, tutorials and more that 
 
 [Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_)<br>Short videos / beginner level
 
+[Vanilla JS equivalents of jQuery methods](https://gist.github.com/joyrexus/7307312)<br>
+Github gist / beginner level
+
+[MDN's Document section](https://developer.mozilla.org/en/docs/Web/API/Document)<br>
+documentation on working with the DOM / intermediate level
+
 [Eloquent JavaScript](http://eloquentjavascript.net/)<br>Online e-book / intermediate level
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)<br>Online e-books series / intermediate level
