@@ -87,6 +87,8 @@ documentation on working with the DOM / intermediate level
 
 ### Command Line & Git
 
+[Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)<br>Free Online Course (note: this is the *appendix* of a paid Python course, but the command lin appendix is free)
+
 [Unix for Mac OS X Users](https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html)<br>Lynda.com online course / beginner level
 
 [Learn the Linux Command Line: The Basics](https://www.lynda.com/Linux-tutorials/Learn-Linux-Command-Line-Basics/435539-2.html)<br>Lynda.com online course / beginner level
@@ -155,17 +157,13 @@ There are too many meetups to list them all. However, the following are most rel
 
 - [Ruby Hack Night / Toronto Ruby Brigade](https://www.meetup.com/torontoruby/)
 
+- [Rails Pub Nite](https://www.meetup.com/Rails-Pub-Night/)
+
 - [Rails Girls TO](https://www.meetup.com/railsgirlsTO/)
 
-<!--
-TODO: Not sure if this Rails Pub Nite is still happening. Commenting out for now. Research needed and will put in if it's still on-going.
-- **Rails Pub Nite:**
-    A casual social mixer for people interested in Ruby on Rails, and those who love them. 7pm on third Monday of every month (except December).  Happens at The Rhino (1249 Queen St. West).
--->
+- [Women Who Code Toronto](https://www.meetup.com/Women-Who-Code-Toronto/)
 
 - Gamma Space (formerly Bento Miso) [hosts tech-themed events](https://bentomiso.com/events).
-
-Want more tech meetups? Check out [Meetup.com](http://meetup.com)
 
 #### Slack Channels
 
